@@ -16,7 +16,8 @@ export const UserContainer = styled.div`
 
 export const Username = styled.h3`
     font-size: 20px;
-    font-family: robo;
+    font-family: "Roboto", serif;
+    font-weight: 500;
 `
 
 export const ProfileIcon = styled.img`
